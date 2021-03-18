@@ -1,0 +1,1 @@
+<?php echo $_SESSION['array_facade']['exp_ent'] . '-' . $_SESSION['array_facade']['exp_sai'] . '-' . $_SESSION['array_facade']['exp_cargo'] . ', ' . $_SESSION['array_facade']['exp_setor'] . ' - ' . $_SESSION['array_facade']['exp_ativ'] . '.' ?>

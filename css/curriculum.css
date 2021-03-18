@@ -1,0 +1,37 @@
+img {
+    display: block;
+    margin-top: 7%;
+    margin-left: 70%;
+    width: 250px;
+    border-radius: 50%;
+    height: 250px;
+}
+body{
+    font-size: 20px;
+}
+h1 {
+    margin-bottom: -15%;
+    margin-top: 5%;
+    margin-left: -350px;
+    justify-content: center;
+    text-align: center;
+    position: center;
+}
+h2 {
+    border-bottom: 2px black solid;
+    margin: 100px;
+    margin-top: 20px;
+}
+h4 {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+ul, li {
+    list-style-type: "➢";
+    margin-left: 80px;
+    padding: 0px;
+}
+li {
+    margin-top: -80px;
+}

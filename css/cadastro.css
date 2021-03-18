@@ -1,0 +1,54 @@
+body {
+    background-color: rgba(20, 9, 31, 0.4); 
+}
+.formt {
+    display: grid;
+    background-color: #F0F0F7;
+    border: black;
+    margin: 20px 300px;
+    padding: 20px;
+    border-radius: 10px;
+    max-height: 80%;
+    max-width: 700px;
+}
+.formt .div_btn {
+    display: flex;
+    width: 600px;
+}
+button {
+    border-style: 4px solid black ;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    border-radius: 5px;
+    color: rgb(61, 61, 61);
+    background-color: gainsboro;
+    padding-bottom: 10px;
+    
+    text-decoration: none; 
+    appearance: button;
+    margin: 23px;
+    margin-left: 45px;
+    width: 250px;
+}
+
+button:hover {
+    background-color: #e1e1e1;
+    
+}   
+input {
+    background-color: #e1e1e1;
+    color: rgb(0, 0, 0);
+    border-radius: 4px;
+    border: none;
+    margin: 0, 20px;
+    
+} 
+label {
+    display: flex;
+    color: black;
+    font-size: 20px;
+    font-style: bold;
+    align-items: center;
+    justify-content: center;
+}
